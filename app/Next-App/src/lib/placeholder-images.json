@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "nft-1",
+      "description": "A colorful abstract geometric pattern.",
+      "imageUrl": "https://images.unsplash.com/photo-1692251531156-15f4b3eb1a8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-2",
+      "description": "A pixelated character with a crown.",
+      "imageUrl": "https://images.unsplash.com/photo-1636716731103-11242116065a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-3",
+      "description": "A futuristic cyborg animal.",
+      "imageUrl": "https://images.unsplash.com/photo-1615843423179-bea071facf96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-4",
+      "description": "A swirling vortex of neon colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1585972949678-b7eff107d061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-5",
+      "description": "A low-poly landscape of a distant planet.",
+      "imageUrl": "https://images.unsplash.com/photo-1692250268332-30f5d61d6609?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-6",
+      "description": "An 8-bit illustration of a rocket ship.",
+      "imageUrl": "https://images.unsplash.com/photo-1615843423179-bea071facf96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-7",
+      "description": "A glitch art style portrait.",
+      "imageUrl": "https://images.unsplash.com/photo-1615843423179-bea071facf96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-8",
+      "description": "A holographic representation of a diamond.",
+      "imageUrl": "https://images.unsplash.com/photo-1615843423179-bea071facf96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-9",
+      "description": "An astronaut floating in a sea of stars.",
+      "imageUrl": "https://images.unsplash.com/photo-1615843423179-bea071facf96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    },
+    {
+      "id": "nft-10",
+      "description": "A stylized cartoon cat wearing sunglasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1585972949678-b7eff107d061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnQlMjBhdmF0YXJ8ZW58MHx8fHwxNzYzMjU5NzcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nft avatar"
+    }
+  ]
+}
