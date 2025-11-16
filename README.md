@@ -1,66 +1,32 @@
-## Foundry
+# VersaTrade
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+VersaTrade is a decentralized PvP wagering platform built on the Arc Testnet. It enables two players to enter a match with a staked bet, and the winner automatically receives the full prize minus a small platform fee. The platform focuses on making skill-based, trustless competition simple, transparent, and secure.
 
-Foundry consists of:
+## Screenshots & Demo
+[![Watch the video](https://img.youtube.com/vi/TxWFlfpe2LA/maxresdefault.jpg)](https://youtu.be/TxWFlfpe2LA)
 
-- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
-- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
-- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
-- **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
-## Documentation
+## Features
 
-https://book.getfoundry.sh/
+- Create and join wager-based matches  
+- Securely lock player stakes in a smart contract  
+- Automatic payout to the winner  
+- Platform fee handled on-chain  
+- Smooth, game-focused user flow  
+- Built using Forge and deployed on Arc Testnet  
 
-## Usage
+## Why Arc
 
-### Build
+Arc provides fast settlement, low fees, and EVM compatibility, making it ideal for gaming applications like VersaTrade. Its developer environment makes on-chain gameplay interactions efficient and flexible.
 
-```shell
-$ forge build
-```
+## Challenges Encountered
 
-### Test
+We ran into a few difficulties during development, including scattered documentation split between Arc and Circle, unstable RPC responses, and inconsistencies when working with wallets and gateway flows. These issues slowed down testing and debugging, especially with limited time.
 
-```shell
-$ forge test
-```
+## Future Improvements
 
-### Format
+- Full integration of Bridge Kit for cross-chain features  
+- More dynamic matchmaking and ranking systems  
+- Expanded UI/UX for gameplay and player profiles  
+- Better on-chain analytics and event tracking  
 
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
